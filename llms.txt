@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-touch-safe-place/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Soft Touch Safe Place](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-safe-place/) |
+| **Get License** | [License this song: Soft Touch Safe Place](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-safe-place/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Come a little closer to the candlelight
+> Let the shadows dance across the room tonight
+> There is nothing but the magic in your face
+> Welcome to your soft touch safe place
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2d78f91cfa86ad48fc3220ea14ab93d47719eed388158edc54bd1693fab5787e` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
